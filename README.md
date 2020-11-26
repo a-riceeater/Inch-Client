@@ -18,8 +18,8 @@ Please note at the time of writing, that we will most likely only be making this
 <img src="steptwo.png">
 <h4>A new file explorer box should now pop up. Open the folder with the title ".minecraft"
   <img src="step3.png">
-  <h4>When in the .minecraft folder, locate the folder called "mods"</h4>
-  
+  <h4>When in the .minecraft folder, find and open the folder called "mods"</h4>
+  <img src="step4.png">
 <hr>
 <h2>Contributers</h2>
 <dl>
