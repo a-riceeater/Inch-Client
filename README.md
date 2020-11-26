@@ -13,7 +13,7 @@ Please note at the time of writing, that we will most likely only be making this
 <p>Inch Client is currenty in the making, but when ready to release, you can go to the Releases page, and select the version you want. Once downloaded, move the jar file to your mods in folder. View the pictures below for more detail.</p>
 
 <h4>Open up the folder where you downloaded the file</h4>
-<img src="https://imgur.com/e7e3666e-f464-474c-9199-a0901a7cd8f0">
+<img src="step1.png">
 <hr>
 <h2>Contributers</h2>
 <dl>
