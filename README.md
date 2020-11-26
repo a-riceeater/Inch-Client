@@ -11,3 +11,8 @@ Please note at the time of writing, that we will most likely only be making this
 
 <h2>Download Client</h2>
 <p>Inch Client is currenty in the making, but when ready to release, you can go to the Releases page, and select the version you want.</p>
+<hr>
+<h2>Contributers</h2>
+<dl>
+  <li><a href="https://github.com/darthvader1925">darthvader1925</a></li>
+  <li><a href="https://github.com/teak4b">teak4b</a></li>
