@@ -15,6 +15,7 @@ Please note at the time of writing, that we will most likely only be making this
 <h4>Open up the folder where you downloaded the file:</h4>
 <img src="stepone.png">
 <h4>Press your <button>WINDOWS</button> key and your <button>R</button> at the same time. When a box pops up, type in "%appdata%"</h4>
+<img src="steptwo.png">
 <hr>
 <h2>Contributers</h2>
 <dl>
