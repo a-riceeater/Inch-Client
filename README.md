@@ -3,4 +3,4 @@
 <hr>
   
   <h2>About</h2>
-<p>This client is dedicated to the minecraft server <b><a href="https://google.com/search?q=2b2t">2 builders 2 tools (2b2t)</a>
+<p>This client is dedicated to the minecraft server <b><a href="https://google.com/search?q=2b2t">2 builders 2 tools (2b2t)</a>. <br> 2b2t is an anarchy server, which means there are no rules. This client is mainly focused on the PvP side of 2b2t, but includes many other features.</p>
