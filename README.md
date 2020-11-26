@@ -22,6 +22,8 @@ Please note at the time of writing, that we will most likely only be making this
   <img src="step4.png">
   <h4>Once in the mods folder, go back to the window where you downloaded the .jar file. Drag the file into your mods folder. Once in your mods folder it should look like this:</h4>
   <img src="step5.png">
+  <h4>Make sure you have Forge 1.12.2 Installed to your computer. Once that is done, your are complete!</h4>
+  <p>To install forge, download this: <a href-"forge-1.12.2-14.23.5.2854-installer (2).jar" download>. Once finished downloading, run the file, click the Instal Client checkbox, then click OK.</p>
 <hr>
 <h2>Contributers</h2>
 <dl>
