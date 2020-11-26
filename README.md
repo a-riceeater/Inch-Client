@@ -4,4 +4,10 @@
   
   <h2>About</h2>
 <p>This client is dedicated to the minecraft server <b><a href="https://google.com/search?q=2b2t">2 builders 2 tools (2b2t)</a>.</b><br><br>
-  2b2t is an anarchy server, which means there are no rules. This client is mainly focused on the PvP side of 2b2t, but includes many other features.</p>
+  2b2t is an anarchy server, which means there are no rules. This client is mainly focused on the PvP side of 2b2t, but includes many other features.<br><br>
+Please note at the time of writing, that we will most likely only be making this for Minecraft version 1.12.2
+</p>
+<hr>
+
+<h2>Download Client</h2>
+<p>Inch Client is currenty in the making, but when ready to release, you can go to the Releases page, and select the version you want.</p>
