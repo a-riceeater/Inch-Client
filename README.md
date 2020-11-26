@@ -16,6 +16,7 @@ Please note at the time of writing, that we will most likely only be making this
 <img src="stepone.png">
 <h4>Press your <button>WINDOWS</button> key and your <button>R</button> at the same time. When a box pops up, type in "%appdata%"</h4>
 <img src="steptwo.png">
+<h4>A new file explorer box should now pop up. Open the folder with the title ".minecraft"
 <hr>
 <h2>Contributers</h2>
 <dl>
