@@ -20,6 +20,8 @@ Please note at the time of writing, that we will most likely only be making this
   <img src="step3.png">
   <h4>When in the .minecraft folder, find and open the folder called "mods"</h4>
   <img src="step4.png">
+  <h4>Once in the mods folder, go back to the window where you downloaded the .jar file. Drag the file into your mods folder. Once in your mods folder it should look like this:</h4>
+  <img src="step5.png">
 <hr>
 <h2>Contributers</h2>
 <dl>
