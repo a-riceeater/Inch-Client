@@ -3,3 +3,4 @@
 <hr>
   
   <h2>About</h2>
+<p>This client is dedicated to the minecraft server <b><a href="https://google.com/search?q=2b2t">2 builders 2 tools (2b2t)</a>
