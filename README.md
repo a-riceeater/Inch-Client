@@ -3,7 +3,7 @@
 <hr>
   
   <h2>About</h2>
-<p>This client is dedicated to the minecraft server <b><a href="https://en.wikipedia.org/wiki/2b2t">2 builders 2 tools (2b2t)</a>.</b><br><br>
+<p>This client is dedicated to the minecraft server <b><a href="http://en.wikipedia.org/wiki/2b2t" target="_blank">2 builders 2 tools (2b2t)</a>.</b><br><br>
   2b2t is an anarchy server, which means there are no rules. This client is mainly focused on the PvP side of 2b2t, but includes many other features.<br><br>
 Please note at the time of writing, that we will most likely only be making this for Minecraft version 1.12.2
 </p>
