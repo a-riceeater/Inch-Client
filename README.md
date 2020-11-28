@@ -33,7 +33,12 @@ Please note at the time of writing, that we will most likely only be making this
     <img src="step8.png">
     <h4>Once the file has been downloaded, open the file. You will see a window popup that looks like this:</h4>
     <img src="step9.png">
-    
+    <h4>Click on the checkbox that says "Install Client" and then press ok.</h4>
+    <img src="step10.png">
+    <h4>After a few seconds you should see a Popup that says "Succesfully installed forge 1.12.2" or something related to that</h4>
+    <img src="step11.png">
+    <h4>Then you are complete! Open up your minecraft launcher and you should see a profile called "Forge 1.12.2"</h4>
+    <img src="step12.png">
 <hr>
 <h2>Contributers</h2>
 <dl>
