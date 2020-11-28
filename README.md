@@ -22,8 +22,18 @@ Please note at the time of writing, that we will most likely only be making this
   <img src="step4.png">
   <h4>Once in the mods folder, go back to the window where you downloaded the .jar file. Drag the file into your mods folder. Once in your mods folder it should look like this:</h4>
   <img src="step5.png">
-  <h4>Make sure you have Forge 1.12.2 Installed to your computer. Once that is done, your are complete!</h4>
-  <p>To install forge, download <a href="https://github.com/darthvader1925/Inch-Client/raw/main/forge-1.12.2-14.23.5.2768-installer.jar">This</a>. Once finished downloading, run the file, click the Instal Client checkbox, then click OK.</p>
+  <hr>
+  <h2><b>Installing Forge</b></h4>
+  <br>
+  <h4>Visit the forge website: <a href="http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html" target=_blank">Click Here</a>. When on the installer, your page should look like this:</h4>
+    <img src="step6.png">
+    <p>Once on the website, click the button that says "Installer"</p>
+    <img src="step7.png">
+    <h4>Once you click the button, you will be redirected to a page. Don't click anything other then the "Skip" button. The file will then be downloaded</h4>
+    <img src="step8.png">
+    <h4>Once the file has been downloaded, open the file. You will see a window popup that looks like this:</h4>
+    <img src="step9.png">
+    
 <hr>
 <h2>Contributers</h2>
 <dl>
