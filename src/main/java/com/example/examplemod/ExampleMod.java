@@ -29,7 +29,5 @@ public class ExampleMod
         // some example code
         logger.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
         
-        Minecraft minecraft = Minecraft.getMinecraft();
-        minecraft.player.sendChatMessage("idk lol");
     }
 }
