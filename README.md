@@ -26,19 +26,19 @@ Please note at the time of writing, that we will most likely only be making this
   <h2><b>Installing Forge</b></h4>
   <br>
   <h4>Visit the forge website: <a href="http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html" target=_blank">Click Here</a>. When on the website, your page should look like this:</h4>
-    <img src="Seps/step6.png">
+    <img src="Steps/step6.png">
     <p>Once on the website, click the button that says "Installer"</p>
-    <img src="Seps/step7.png">
+    <img src="Steps/step7.png">
     <h4>Once you click the button, you will be redirected to a page. Don't click anything other then the "Skip" button. The file will then be downloaded</h4>
-    <img src="Seps/step8.png">
+    <img src="Steps/step8.png">
     <h4>Once the file has been downloaded, open the file. You will see a window popup that looks like this:</h4>
-    <img src="Seps/step9.png">
+    <img src="Steps/step9.png">
     <h4>Click on the checkbox that says "Install Client" and then press ok.</h4>
-    <img src="Seps/step10.png">
+    <img src="Steps/step10.png">
     <h4>After a few seconds you should see a Popup that says "Succesfully installed forge 1.12.2" or something related to that</h4>
-    <img src="Seps/step11.png">
+    <img src="Steps/step11.png">
     <h4>Then you are complete! Open up your minecraft launcher and you should see a profile called "Forge 1.12.2"</h4>
-    <img src="steps/step12.png">
+    <img src="Steps/step12.png">
 <hr>
 <h2>Contributers</h2>
 <dl>
