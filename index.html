@@ -7,14 +7,16 @@
   <a href="website/index.html" id="link"></a>
   <h1 id="txt"></h1>
 <br><br><br><br><br><br>
-<h1>Checking your browser before accessing inch client</h1>
+<h1>Checking your browser before accessing Inch Client</h1>
 <p>This process is automatic. Your browser will redirect you to your requested content shortly.</p>
 <p>Please alow up to 5 seconds...</p>
   
-
+<br><br><br>
+  <p id="scanid"></p>
   <script>
     function anim() {
       var x = document.getElementById("txt");
+     document.getElementById("scanid").innerHTML = "Scan ID: " + Math.floor(Math.random() * 10000000000); 
   setTimeout(function(){ x.innerHTML="." }, 1500);
   setTimeout(function(){ x.innerHTML=".." }, 3000);
   setTimeout(function(){ x.innerHTML="..." }, 4500);
