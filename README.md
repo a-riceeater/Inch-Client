@@ -15,7 +15,7 @@ Please note at the time of writing, that we will most likely only be making this
 <h4>Open up the folder where you downloaded the file:</h4>
 <img src="Steps/stepone.png">
 <h4>Press your <button>WINDOWS</button> key and your <button>R</button> at the same time. When a box pops up, type in "%appdata%"</h4>
-<img src="steps/steptwo.png">
+<img src="Steps/steptwo.png">
 <h4>A new file explorer box should now pop up. Open the folder with the title ".minecraft"
   <img src="Steps/step3.png">
   <h4>When in the .minecraft folder, find and open the folder called "mods"</h4>
