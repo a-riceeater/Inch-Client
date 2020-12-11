@@ -10,15 +10,15 @@
   <script>
     function anim() {
       document.getElementById("1").style.display = "block"
-      setTimeout(next,100);
+      setTimeout(next,500);
       function next() {
         document.getElementById("1").style.display = "none"
         document.getElementById("2").style.display = "block"
-        setTimeout(next1,100);
+        setTimeout(next1,500);
         function next1() {
          document.getElementById("2").style.display = "none"
          document.getElementById("3").style.display = "block"
-          setTimeout(next,100);
+          setTimeout(anim,500);
         }
       }
     }
