@@ -21,7 +21,16 @@
       function next() {
         document.getElementByid("1").style.display = "none"
         document.getElementByid("2").style.display = "block"
-        setTimeout(next1,100)
+        setTimeout(next1,100);
+        function next1() {
+         document.getElementByid("2").style.display = "none"
+         document.getElementByid("3").style.display = "block"
+          setTimeout(next,100);
+        }
+      }
+    }
+    }
+    
   </script>
 <style>
   body {
