@@ -1,0 +1,1 @@
+permalink: /website/index.html
