@@ -1,6 +1,6 @@
-<body align="center">
+<body onload="anim()" align="center">
   <a href="website/index.html" id="link"></a>
-  <h1><span id="1">.</span><span id="2">.</span><span id="3">.</span></h1>
+  <h1><span id="1" style="display:none;">.</span><span id="2" style="display:none;">.</span><span id="3" style="display:none;">.</span></h1>
 <br><br><br><br><br><br>
 <h1>Checking your browser before accessing inch client</h1>
 <p>This process is automatic. Your browser will redirect you to your requested content shortly.</p>
@@ -14,6 +14,15 @@
     }
   }
 </script>
+  <script>
+    function anim() {
+      document.getElementByid("1").style.display = "block"
+      setTimeout(next,100);
+      function next() {
+        document.getElementByid("1").style.display = "none"
+        document.getElementByid("2").style.display = "block"
+        setTimeout(next1,100)
+  </script>
 <style>
   body {
     font-family:sans-serif;
