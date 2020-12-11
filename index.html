@@ -5,7 +5,7 @@
   </head>
 <body onload="anim()" align="center">
   <a href="website/index.html" id="link"></a>
-  <h1><span id="1"</span><span id="2"></span><span id="3"></span></h1>
+  <h1 id="txt"></h1>
 <br><br><br><br><br><br>
 <h1>Checking your browser before accessing inch client</h1>
 <p>This process is automatic. Your browser will redirect you to your requested content shortly.</p>
@@ -14,22 +14,11 @@
 
   <script>
     function anim() {
-      document.getElementById("3").innerHTML = ""
-      document.getElementById("1").innerHTML = "."
-      setTimeout(next,500);
-      function next() {
-        document.getElementById("1").innerHTML = ""
-        document.getElementById("2").innerHTML = "."
-        setTimeout(next1,500);
-        function next1() {
-         document.getElementById("2").innerHTML = ""
-         document.getElementById("3").innerHTML = "."
-          setTimeout(anim,500);
-        }
-      }
+      var x = document.getElementById("txt");
+  setTimeout(function(){ x.value="." }, 1500);
+  setTimeout(function(){ x.value="." }, 1500);
+  setTimeout(function(){ x.value="." }, 1500);
     }
-    
-    
   </script>
 <style>
   body {
