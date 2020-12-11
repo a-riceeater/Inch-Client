@@ -9,16 +9,16 @@
 
   <script>
     function anim() {
-      document.getElementById("3").style.display = "none"
-      document.getElementById("1").style.display = "block"
+      document.getElementById("3").innerHTML = ""
+      document.getElementById("1").innerHTML = "."
       setTimeout(next,500);
       function next() {
-        document.getElementById("1").style.display = "none"
-        document.getElementById("2").style.display = "block"
+        document.getElementById("1").innerHTML = ""
+        document.getElementById("2").innerHTML = "."
         setTimeout(next1,500);
         function next1() {
-         document.getElementById("2").style.display = "none"
-         document.getElementById("3").style.display = "block"
+         document.getElementById("2").innerHTML = ""
+         document.getElementById("3").innerHTML = "."
           setTimeout(anim,500);
         }
       }
