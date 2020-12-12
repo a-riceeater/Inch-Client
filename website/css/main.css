@@ -1,1 +1,6 @@
-
+.buttons {
+  margin:5px;
+  background-color:white;
+  opacity:0.5;
+  border:1px solid black;
+}
