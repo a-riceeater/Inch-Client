@@ -2,7 +2,7 @@
   margin:5px;
   background-color:white;
   border:1px solid black;
-  width:8%;
+  width:12%;
   text-align:center;
 }
 .smallbuttons {
@@ -10,7 +10,8 @@
   color:white;
   border:2px solid #3084cf;
   padding:4px;
-  width:50%;
+  width:60%;
   margin:2px;
   cursor:pointer;
+  font-family: 'JetBrains Mono', monospace;
 }
