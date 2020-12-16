@@ -2,13 +2,13 @@
 {
   "modid": "examplemod",
   "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "description": "A Minecraft utility mod for Anrchy servers\n Written by teak4b and darthvader1925",
   "version": "${version}",
-  "mcversion": "${mcversion}",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["teak4b", darthvader1925],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
