@@ -15,7 +15,7 @@
   margin:2px;
   cursor:pointer;
   font-family: 'JetBrains Mono', monospace;
-  display:inline-block;
+  display:flex;
 }
 #div1, #div2, #div3 {
 }
