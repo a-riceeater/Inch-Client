@@ -3,9 +3,9 @@
 <hr>
   
   <h2>About</h2>
-<p>This client is dedicated to the minecraft server <b><a href="http://en.wikipedia.org/wiki/2b2t" target="_blank">2 builders 2 tools (2b2t)</a>.</b><br><br>
-  2b2t is an anarchy server, which means there are no rules. This client is mainly focused on the PvP side of 2b2t, but includes many other features.<br><br>
-Please note at the time of writing, that we will most likely only be making this for Minecraft version 1.12.2
+<p>This client is made for anarchy servers, such as <b><a href="http://en.wikipedia.org/wiki/2b2t" target="_blank">2b2t</a>.</b><br>
+  <br>
+This client is made for Forge 1.12.2
 </p>
 <hr>
 
@@ -23,7 +23,7 @@ Please note at the time of writing, that we will most likely only be making this
   <h4>Once in the mods folder, go back to the window where you downloaded the .jar file. Drag the file into your mods folder. Once in your mods folder it should look like this:</h4>
   <img src="Steps/step5.png">
   <hr>
-  <h2><b>Installing Forge</b></h4>
+  <h2><b>Installing Forge</b></h2>
   <br>
   <h4>Visit the forge website: <a href="http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html" target=_blank">Click Here</a>. When on the website, your page should look like this:</h4>
     <img src="Steps/step6.png">
@@ -41,6 +41,7 @@ Please note at the time of writing, that we will most likely only be making this
     <img src="Steps/step12.png">
 <hr>
 <h2>Contributers</h2>
-<dl>
+<ul>
   <li><a href="https://github.com/darthvader1925">darthvader1925</a></li>
   <li><a href="https://github.com/teak4b">teak4b</a></li>
+</ul>
