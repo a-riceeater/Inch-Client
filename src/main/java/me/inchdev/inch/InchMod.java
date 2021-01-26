@@ -3,6 +3,7 @@ package me.inchdev.inch;
 import me.inchdev.inch.module.Module;
 import me.inchdev.inch.module.ModuleManager;
 import me.inchdev.inch.proxy.CommonProxy;
+import me.inchdev.inch.ui.Hud;
 import net.minecraft.client.Minecraft;
 import net.minecraft.init.Blocks;
 import net.minecraftforge.common.MinecraftForge;
@@ -30,6 +31,7 @@ public class InchMod
     private static Logger logger;
 
     public static ModuleManager moduleManager;
+    public static Hud hud;
 
     @Mod.Instance
     public InchMod instance;
@@ -45,8 +47,11 @@ public class InchMod
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-        MinecraftForge.EVENT_BUS.register(instance);
         moduleManager = new ModuleManager();
+        hud = new Hud();
+
+        MinecraftForge.EVENT_BUS.register(instance);
+        MinecraftForge.EVENT_BUS.register(hud);
     }
 
     @EventHandler

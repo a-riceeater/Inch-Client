@@ -5,9 +5,9 @@ import net.minecraftforge.common.MinecraftForge;
 import scala.Console;
 
 public class Module {
-    private String name, description;
+    private final String name, description;
+    private final Category category;
     private int key;
-    private Category category;
 
     private boolean toggled;
 
