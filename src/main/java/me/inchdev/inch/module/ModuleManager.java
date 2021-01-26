@@ -1,16 +1,18 @@
 package me.inchdev.inch.module;
 
+import me.inchdev.inch.module.modules.movement.Sprint;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class ModuleManager {
-    private ArrayList<Module> modules;
+    public ArrayList<Module> modules;
 
     public ModuleManager() {
         modules = new ArrayList<>();
 
         // init mods
-
+        modules.add(new Sprint());
     }
 
     public ArrayList<Module> getModules() { return modules; }
