@@ -29,7 +29,7 @@ public class InchMod
 
     private static Logger logger;
 
-    public ModuleManager moduleManager;
+    public static ModuleManager moduleManager;
 
     @Mod.Instance
     public InchMod instance;
@@ -63,7 +63,7 @@ public class InchMod
                     int keyCode = Keyboard.getEventKey();
                     if(keyCode <= 0)
                         return;
-                    for(Module mod : moduleManager.modules) {
+                    for(Module mod : moduleManager.getModules()) {
                         if(mod.getKey() == keyCode) {
                             mod.toggle();
                         }
