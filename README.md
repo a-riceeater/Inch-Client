@@ -2,6 +2,9 @@
   <h4>Ignore the kinda weird name, it was from a random word generator</h4>
 <hr>
   
+
+  # This project has been archived, and is nom longer in use.
+
   <h2>About</h2>
 <p>This client is made for anarchy servers, such as <b><a href="http://en.wikipedia.org/wiki/2b2t" target="_blank">2b2t</a>.</b><br>
   <br>
